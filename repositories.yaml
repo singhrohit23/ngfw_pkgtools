@@ -10,6 +10,8 @@ repositories:
     products:
       ngfw:
   ngfw_pkgs:
+    private: true
+    git_base_url: git@github.com:singhrohit23
     products:
       ngfw:
   ngfw_src:
